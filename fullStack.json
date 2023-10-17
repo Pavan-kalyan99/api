@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Leanne Graham",
+        "name": "MERN Stack",
         "username": "Bret",
         "email": "Sincere@april.biz",
         "address": {
@@ -24,7 +24,7 @@
     },
     {
         "id": 2,
-        "name": "Ervin Howell",
+        "name": "MEAN stack",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
         "address": {
@@ -47,7 +47,7 @@
     },
     {
         "id": 3,
-        "name": "Clementine Bauch",
+        "name": "JAVA full stack ",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
         "address": {
@@ -70,7 +70,7 @@
     },
     {
         "id": 4,
-        "name": "Patricia Lebsack",
+        "name": "Python full stack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
         "address": {
@@ -93,7 +93,7 @@
     },
     {
         "id": 5,
-        "name": "Chelsey Dietrich",
+        "name": "DotNet Full stack",
         "username": "Kamren",
         "email": "Lucio_Hettinger@annie.ca",
         "address": {

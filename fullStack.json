@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "MERN Stack",
+        "image": "https://miro.medium.com/v2/resize:fit:4000/0*U1nsyFjkOBubVfSh.jpg",
         "username": "Bret",
         "email": "Sincere@april.biz",
         "address": {
@@ -25,6 +26,7 @@
     {
         "id": 2,
         "name": "MEAN stack",
+        "image":"https://evincedev.com/blog/wp-content/uploads/2017/07/Mean-stack-technology.jpg",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
         "address": {
@@ -48,6 +50,7 @@
     {
         "id": 3,
         "name": "JAVA full stack ",
+        "image":"https://postulateinfotech.com/courses/img/course/java-web-2.png",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
         "address": {

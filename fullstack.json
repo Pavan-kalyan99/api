@@ -12,13 +12,7 @@
             "name4": "mongoDB",
            
         },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
-        "company": {
-            "name": "Romaguera-Crona",
-            "catchPhrase": "Multi-layered client-server neural-net",
-            "bs": "harness real-time e-markets"
-        }
+    
     },
     {
         "id": 2,
@@ -34,110 +28,11 @@
            
         },
             
-            "geo": {
-                "lat": "-43.9509",
-                "lng": "-34.4618"
-            }
+          
     
      
     },
-    {
-        "id": 3,
-        "name": "JAVA full stack ",
-        "image":"https://postulateinfotech.com/courses/img/course/java-web-2.png",
-        "username": "Samantha",
-        "email": "Nathan@yesenia.net",
-        
-     "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        },
-            "geo": {
-                "lat": "-68.6102",
-                "lng": "-47.0653"
-            }
-    
-    
-    {
-        "id": 4,
-        "name": "Python full stack",
-        "username": "Karianne",
-        "email": "Julianne.OConner@kory.org",
-      "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        },
-            "geo": {
-                "lat": "29.4572",
-                "lng": "-164.2990"
-            }
-    
-     
-    },
-    {
-        "id": 5,
-        "name": "DotNet Full stack",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
-     "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        },
-            "geo": {
-                "lat": "-31.8129",
-                "lng": "62.5342"
-            }
-        
-
-    },
-    {
-        "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
-     "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        },
-            "geo": {
-                "lat": "-71.4197",
-                "lng": "71.7478"
-            }
-    
-
-    },
-
-    {
-        "id": 7,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
-         "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        },
-            "geo": {
-                "lat": "-14.3990",
-                "lng": "-120.7677"
-            }
-    
-    
-    },
+  
 
 
 ]

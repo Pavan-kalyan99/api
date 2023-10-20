@@ -4,11 +4,11 @@
         "name": "MERN full stack",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "address": {
-            "street": "Kulas Light",
-            "suite": "Apt. 556",
-            "city": "Gwenborough",
-            "zipcode": "92998-3874",
+        "topics": {
+            "one": "React",
+           "one": "Node.js",      
+            "one": "Express",
+            "one": "MongoDB",
             "geo": {
                 "lat": "-37.3159",
                 "lng": "81.1496"
@@ -27,11 +27,11 @@
         "name": "MEAN full stack",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
-        "address": {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
+            "topics": {
+            "one": "React",
+           "one": "Node.js",      
+            "one": "Express",
+            "one": "MongoDB",
             "geo": {
                 "lat": "-43.9509",
                 "lng": "-34.4618"
@@ -50,11 +50,11 @@
         "name": "JAVA full stack",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
-        "address": {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
+        "topics": {
+            "one": "React",
+           "one": "Node.js",      
+            "one": "Express",
+            "one": "MongoDB",
             "geo": {
                 "lat": "-68.6102",
                 "lng": "-47.0653"
@@ -73,11 +73,11 @@
             "name": "PYTHON full stack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
-        "address": {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis",
-            "zipcode": "53919-4257",
+        "topics": {
+            "one": "React",
+           "one": "Node.js",      
+            "one": "Express",
+            "one": "MongoDB",
             "geo": {
                 "lat": "29.4572",
                 "lng": "-164.2990"
@@ -99,11 +99,11 @@
         "name": "DOT.NET full stack",
         "username": "Maxime_Nienow",
         "email": "Sherwood@rosamond.me",
-        "address": {
-            "street": "Ellsworth Summit",
-            "suite": "Suite 729",
-            "city": "Aliyaview",
-            "zipcode": "45169",
+              "topics": {
+            "one": "React",
+           "one": "Node.js",      
+            "one": "Express",
+            "one": "MongoDB",
             "geo": {
                 "lat": "-14.3990",
                 "lng": "-120.7677"

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Leanne Graham",
+        "name": "MERN full stack",
         "username": "Bret",
         "email": "Sincere@april.biz",
         "address": {
@@ -24,7 +24,7 @@
     },
     {
         "id": 2,
-        "name": "Ervin Howell",
+        "name": "MEAN full stack",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
         "address": {
@@ -47,7 +47,7 @@
     },
     {
         "id": 3,
-        "name": "Clementine Bauch",
+        "name": "JAVA full stack",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
         "address": {
@@ -70,7 +70,7 @@
     },
     {
         "id": 4,
-        "name": "Patricia Lebsack",
+            "name": "PYTHON full stack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
         "address": {
@@ -91,78 +91,12 @@
             "bs": "transition cutting-edge web services"
         }
     },
+
+  
+  
     {
         "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
-        "address": {
-            "street": "Skiles Walks",
-            "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
-            "geo": {
-                "lat": "-31.8129",
-                "lng": "62.5342"
-            }
-        },
-        "phone": "(254)954-1289",
-        "website": "demarco.info",
-        "company": {
-            "name": "Keebler LLC",
-            "catchPhrase": "User-centric fault-tolerant solution",
-            "bs": "revolutionize end-to-end systems"
-        }
-    },
-    {
-        "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
-        "address": {
-            "street": "Norberto Crossing",
-            "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
-            "geo": {
-                "lat": "-71.4197",
-                "lng": "71.7478"
-            }
-        },
-        "phone": "1-477-935-8478 x6430",
-        "website": "ola.org",
-        "company": {
-            "name": "Considine-Lockman",
-            "catchPhrase": "Synchronised bottom-line interface",
-            "bs": "e-enable innovative applications"
-        }
-    },
-    {
-        "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-        "email": "Telly.Hoeger@billy.biz",
-        "address": {
-            "street": "Rex Trail",
-            "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
-            "geo": {
-                "lat": "24.8918",
-                "lng": "21.8984"
-            }
-        },
-        "phone": "210.067.6132",
-        "website": "elvis.io",
-        "company": {
-            "name": "Johns Group",
-            "catchPhrase": "Configurable multimedia task-force",
-            "bs": "generate enterprise e-tailers"
-        }
-    },
-    {
-        "id": 8,
-        "name": "Nicholas Runolfsdottir V",
+        "name": "DOT.NET full stack",
         "username": "Maxime_Nienow",
         "email": "Sherwood@rosamond.me",
         "address": {

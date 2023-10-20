@@ -6,32 +6,15 @@
         "username": "Bret",
         "email": "Sincere@april.biz",
         "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
+            "one": "React",
+            "two": "Node.js",
+            "three": "Express",
+            "four": "mongoDB",
            
         }
     
-    },
-    {
-        "id": 2,
-        "name": "MEAN stack",
-        "image":"https://evincedev.com/blog/wp-content/uploads/2017/07/Mean-stack-technology.jpg",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv",
-     "topics": {
-            "name1": "React",
-            "name2": "Node.js",
-            "name3": "Express",
-            "name4": "mongoDB",
-           
-        }
-            
-          
-    
-     
-    },
+    }
+
   
 
 

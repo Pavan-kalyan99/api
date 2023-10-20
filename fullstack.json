@@ -6,14 +6,11 @@
         "username": "Bret",
         "email": "Sincere@april.biz",
         "topics": {
-            "name": "React",
-            "name": "Node.js",
-            "city": "Gwenborough",
-            "name": "mongoDB",
-            "geo": {
-                "lat": "-37.3159",
-                "lng": "81.1496"
-            }
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
         },
         "phone": "1-770-736-8031 x56442",
         "website": "hildegard.org",
@@ -29,11 +26,14 @@
         "image":"https://evincedev.com/blog/wp-content/uploads/2017/07/Mean-stack-technology.jpg",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
-        "address": {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
+     "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
+            
             "geo": {
                 "lat": "-43.9509",
                 "lng": "-34.4618"
@@ -53,11 +53,14 @@
         "image":"https://postulateinfotech.com/courses/img/course/java-web-2.png",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
-        "address": {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
+        
+     "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "-68.6102",
                 "lng": "-47.0653"
@@ -76,11 +79,13 @@
         "name": "Python full stack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
-        "address": {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis",
-            "zipcode": "53919-4257",
+      "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "29.4572",
                 "lng": "-164.2990"
@@ -99,11 +104,13 @@
         "name": "DotNet Full stack",
         "username": "Kamren",
         "email": "Lucio_Hettinger@annie.ca",
-        "address": {
-            "street": "Skiles Walks",
-            "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
+     "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "-31.8129",
                 "lng": "62.5342"
@@ -122,11 +129,13 @@
         "name": "Mrs. Dennis Schulist",
         "username": "Leopoldo_Corkery",
         "email": "Karley_Dach@jasper.info",
-        "address": {
-            "street": "Norberto Crossing",
-            "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
+     "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "-71.4197",
                 "lng": "71.7478"
@@ -145,11 +154,13 @@
         "name": "Kurtis Weissnat",
         "username": "Elwyn.Skiles",
         "email": "Telly.Hoeger@billy.biz",
-        "address": {
-            "street": "Rex Trail",
-            "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
+      "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "24.8918",
                 "lng": "21.8984"
@@ -168,11 +179,13 @@
         "name": "Nicholas Runolfsdottir V",
         "username": "Maxime_Nienow",
         "email": "Sherwood@rosamond.me",
-        "address": {
-            "street": "Ellsworth Summit",
-            "suite": "Suite 729",
-            "city": "Aliyaview",
-            "zipcode": "45169",
+         "topics": {
+            "name1": "React",
+            "name2": "Node.js",
+            "name3": "Express",
+            "name4": "mongoDB",
+           
+        },
             "geo": {
                 "lat": "-14.3990",
                 "lng": "-120.7677"
@@ -186,50 +199,6 @@
             "bs": "e-enable extensible e-tailers"
         }
     },
-    {
-        "id": 9,
-        "name": "Glenna Reichert",
-        "username": "Delphine",
-        "email": "Chaim_McDermott@dana.io",
-        "address": {
-            "street": "Dayna Park",
-            "suite": "Suite 449",
-            "city": "Bartholomebury",
-            "zipcode": "76495-3109",
-            "geo": {
-                "lat": "24.6463",
-                "lng": "-168.8889"
-            }
-        },
-        "phone": "(775)976-6794 x41206",
-        "website": "conrad.com",
-        "company": {
-            "name": "Yost and Sons",
-            "catchPhrase": "Switchable contextually-based project",
-            "bs": "aggregate real-time technologies"
-        }
-    },
-    {
-        "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
-        "address": {
-            "street": "Kattie Turnpike",
-            "suite": "Suite 198",
-            "city": "Lebsackbury",
-            "zipcode": "31428-2261",
-            "geo": {
-                "lat": "-38.2386",
-                "lng": "57.2232"
-            }
-        },
-        "phone": "024-648-3804",
-        "website": "ambrose.net",
-        "company": {
-            "name": "Hoeger LLC",
-            "catchPhrase": "Centralized empowering task-force",
-            "bs": "target end-to-end models"
-        }
-    }
+
+
 ]

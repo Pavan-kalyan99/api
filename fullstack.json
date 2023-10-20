@@ -5,11 +5,11 @@
         "image": "https://miro.medium.com/v2/resize:fit:4000/0*U1nsyFjkOBubVfSh.jpg",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "address": {
-            "street": "Kulas Light",
-            "suite": "Apt. 556",
+        "topics": {
+            "name": "React",
+            "name": "Node.js",
             "city": "Gwenborough",
-            "zipcode": "92998-3874",
+            "name": "mongoDB",
             "geo": {
                 "lat": "-37.3159",
                 "lng": "81.1496"

@@ -6,9 +6,9 @@
         "email": "Sincere@april.biz",
         "topics": {
             "one": "React",
-           "one": "Node.js",      
-            "one": "Express",
-            "one": "MongoDB",
+           "two": "Node.js",      
+            "three": "Express",
+            "four": "MongoDB",
             "geo": {
                 "lat": "-37.3159",
                 "lng": "81.1496"
@@ -27,11 +27,10 @@
         "name": "MEAN full stack",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
-            "topics": {
             "one": "React",
-           "one": "Node.js",      
-            "one": "Express",
-            "one": "MongoDB",
+           "two": "Node.js",      
+            "three": "Express",
+            "four": "MongoDB",
             "geo": {
                 "lat": "-43.9509",
                 "lng": "-34.4618"
@@ -50,11 +49,10 @@
         "name": "JAVA full stack",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
-        "topics": {
-            "one": "React",
-           "one": "Node.js",      
-            "one": "Express",
-            "one": "MongoDB",
+             "one": "React",
+           "two": "Node.js",      
+            "three": "Express",
+            "four": "MongoDB",
             "geo": {
                 "lat": "-68.6102",
                 "lng": "-47.0653"
@@ -73,11 +71,10 @@
             "name": "PYTHON full stack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
-        "topics": {
-            "one": "React",
-           "one": "Node.js",      
-            "one": "Express",
-            "one": "MongoDB",
+       "one": "React",
+           "two": "Node.js",      
+            "three": "Express",
+            "four": "MongoDB",
             "geo": {
                 "lat": "29.4572",
                 "lng": "-164.2990"
@@ -90,33 +87,11 @@
             "catchPhrase": "Multi-tiered zero tolerance productivity",
             "bs": "transition cutting-edge web services"
         }
-    },
+    }
 
   
   
-    {
-        "id": 5,
-        "name": "DOT.NET full stack",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
-              "topics": {
-            "one": "React",
-           "one": "Node.js",      
-            "one": "Express",
-            "one": "MongoDB",
-            "geo": {
-                "lat": "-14.3990",
-                "lng": "-120.7677"
-            }
-        },
-        "phone": "586.493.6943 x140",
-        "website": "jacynthe.com",
-        "company": {
-            "name": "Abernathy Group",
-            "catchPhrase": "Implemented secondary concept",
-            "bs": "e-enable extensible e-tailers"
-        }
-    }
+
 
   
 ]
